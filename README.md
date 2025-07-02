@@ -19,7 +19,7 @@ This demo creates the following resources:
 
 # Some Theory
 
-Before we get started I want to discuss some terms and theory about AWS and accounts. This is not meant to be an AWS course or AWS specific guide but I realize many who take this will be new to AWS so I want to cover it. 
+Before we get started I want to discuss some terms and theory about AWS and accounts. This is not meant to be an AWS course or AWS specific guide but I realize many who take this will be new to AWS so I want to cover it. If this information is not new to you, feel free to skip this and the suggested reading.
 
 ### AWS Accounts
 
@@ -27,7 +27,9 @@ In AWS your account is like a container that all your resources you build such a
 
 <br>
 
-> I recommend the following reading before continuing:
+
+
+> Suggested Reading 📖:
 - [What is an AWS account?](https://docs.aws.amazon.com/accounts/latest/reference/accounts-welcome.html)
 - [Terminology and concepts for AWS Organizations](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_getting-started_concepts.html)
 
