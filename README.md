@@ -41,7 +41,7 @@ In AWS your account is like a container that all your resources you build such a
 
 ### 1. Log into AWS
 
-- Log into AWS with your root account [AWS](https://aws.amazon.com/))
+- Log into AWS with your root account [AWS](https://aws.amazon.com/)
 
 ![image](https://github.com/user-attachments/assets/464af956-2c61-487d-bbef-acce4a9378f0)
 
@@ -49,6 +49,21 @@ In AWS your account is like a container that all your resources you build such a
 
 
 ***
+
+### 2. Once you're in AWS open up Identity and Access Management (IAM)
+
+![image](https://github.com/user-attachments/assets/27f8a292-70a5-4475-9628-fd0c0ddda89c)
+
+- You can favorite it so it's easier to find later.
+
+
+
+
+
+
+
+
+
 
 
 
