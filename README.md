@@ -79,6 +79,10 @@ In AWS your account is like a container that all your resources you build such a
 
 ![image](https://github.com/user-attachments/assets/fa52a954-38fd-47f6-8cc8-c92c82a55e6b)
 
+- Find the two built-in roles you see in the screenshot (AmazonEC2FullAccess, AmazonVPCFullAccess)
+
+![image](https://github.com/user-attachments/assets/3f86448c-3355-40a9-b973-457928d5efee)
+
 
 <br>
 
