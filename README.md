@@ -49,7 +49,7 @@ In AWS your account is like a container that all your resources you build such a
 
 ***
 
-### 2. Once you're in AWS open up Identity and Access Management (IAM)
+### 2. Open Identity and Access Management (IAM)
 
 ![image](https://github.com/user-attachments/assets/27f8a292-70a5-4475-9628-fd0c0ddda89c)
 
@@ -59,17 +59,11 @@ In AWS your account is like a container that all your resources you build such a
 
 ***
 
-### 3. Once you're in AWS open up Identity and Access Management (IAM)
+### 3. Create and assign access to the user
 
 - On the left pane you will find users and click on create user
 
 ![image](https://github.com/user-attachments/assets/42972e56-3d4e-4202-b972-f2f3cbb6c65d)
-
-<br>
-
-***
-
-### 4. Once you're in AWS open up Identity and Access Management (IAM)
 
 - We're going to create a specific account for our Terraform code to use when it deploys
 
@@ -83,13 +77,19 @@ In AWS your account is like a container that all your resources you build such a
 
 ![image](https://github.com/user-attachments/assets/3f86448c-3355-40a9-b973-457928d5efee)
 
-
 <br>
 
 ***
 
+### 4. Create access keys
+
+- Open the newly created iac-user account
+
+![image](https://github.com/user-attachments/assets/a958e31f-c1dc-4ada-b2e1-d7f50e2a3ed8)
+![image](https://github.com/user-attachments/assets/192a7969-fcdf-47a2-ad1e-7fcd03bb8e23)
 
 
+- 
 
 
 
