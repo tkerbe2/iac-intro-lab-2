@@ -104,7 +104,7 @@ In AWS your account is like a container that all your resources you build such a
 
 ![image](https://github.com/user-attachments/assets/ad6795b8-9b01-4cb9-be07-b98b87707e87)
 
-
+<br>
 
 
 
@@ -115,14 +115,10 @@ In AWS your account is like a container that all your resources you build such a
 ***
 
 You've finished this lab and have completed the following items:
-- ✅ Launched a bash Cloud Shell environment.
-- ✅ Saved your Subscription ID to a variable and exported it for Terraform.
-- ✅ Cloned the GitHub repo.
-- ✅ Modified some Terraform variables in the terraform.tfvars file.
-- ✅ Initialized your directory.
-- ✅ Ran a Terraform plan and applied the changes.
-- ✅ Verified your resources in the Azure UI.
-- ✅ Ran a Terraform destroy and unset your variables
+- ✅ Created a new AWS account.
+- ✅ Logged into your AWS root account.
+- ✅ Created an AWS IAM user that will be used for Terraform.
+- ✅ Created an access key and secret key with the new user.
 
 ***
 
