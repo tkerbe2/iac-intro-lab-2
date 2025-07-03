@@ -53,13 +53,39 @@ In AWS your account is like a container that all your resources you build such a
 
 ![image](https://github.com/user-attachments/assets/27f8a292-70a5-4475-9628-fd0c0ddda89c)
 
-- You can favorite it so it's easier to find later.
+- You can favorite it so it's easier to find later
 
 <br>
 
 ***
 
+### 3. Once you're in AWS open up Identity and Access Management (IAM)
 
+![image](https://github.com/user-attachments/assets/27f8a292-70a5-4475-9628-fd0c0ddda89c)
+
+- On the left pane you will find users and click on create user
+
+![image](https://github.com/user-attachments/assets/42972e56-3d4e-4202-b972-f2f3cbb6c65d)
+
+<br>
+
+***
+
+### 4. Once you're in AWS open up Identity and Access Management (IAM)
+
+
+- We're going to create a specific account for our Terraform code to use when it deploys
+
+![image](https://github.com/user-attachments/assets/2b4e63bd-523b-45e9-aeb0-68e2e8ce05a5)
+
+- We need to give this account access to perform actions in certain services like creating a VM in EC2
+
+![image](https://github.com/user-attachments/assets/fa52a954-38fd-47f6-8cc8-c92c82a55e6b)
+
+
+<br>
+
+***
 
 
 
