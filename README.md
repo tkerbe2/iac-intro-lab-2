@@ -39,11 +39,13 @@ In AWS your account is like a container that all your resources you build such a
 
 # Lab Steps
 
-### 1. Log into Azure and open Cloud Shell
+### 1. Log into AWS
 
 ![cloudshell](https://github.com/user-attachments/assets/a24f345c-e380-4f54-8a4b-f6b8463c023e)
 
-- In the top right corner of the UI there is a terminal looking icon.
+- Log into AWS with your root account
+
+![image](https://github.com/user-attachments/assets/464af956-2c61-487d-bbef-acce4a9378f0)
 
 <br>
 
