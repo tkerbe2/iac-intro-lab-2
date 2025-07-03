@@ -41,7 +41,7 @@ In AWS your account is like a container that all your resources you build such a
 
 ### 1. Log into AWS
 
-- Log into AWS with your root account
+- Log into AWS with your root account [https://aws.amazon.com/](AWS)
 
 ![image](https://github.com/user-attachments/assets/464af956-2c61-487d-bbef-acce4a9378f0)
 
