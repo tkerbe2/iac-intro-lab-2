@@ -47,7 +47,6 @@ In AWS your account is like a container that all your resources you build such a
 
 <br>
 
-
 ***
 
 ### 2. Once you're in AWS open up Identity and Access Management (IAM)
@@ -56,7 +55,9 @@ In AWS your account is like a container that all your resources you build such a
 
 - You can favorite it so it's easier to find later.
 
+<br>
 
+***
 
 
 
