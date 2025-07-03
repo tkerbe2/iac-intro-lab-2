@@ -17,6 +17,8 @@ This demo creates the following resources:
 - Custom access portal URL
 - Access key and secret key
 
+<br>
+
 # Some Theory
 
 Before we get started I want to discuss some terms and theory about AWS and accounts. This is not meant to be an AWS course or AWS specific guide but I realize many who take this will be new to AWS so I want to cover it. If this information is not new to you, feel free to skip this and the suggested reading.
