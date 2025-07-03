@@ -86,10 +86,25 @@ In AWS your account is like a container that all your resources you build such a
 - Open the newly created iac-user account
 
 ![image](https://github.com/user-attachments/assets/a958e31f-c1dc-4ada-b2e1-d7f50e2a3ed8)
+
+- You can create an access key on the top right pane
+
 ![image](https://github.com/user-attachments/assets/192a7969-fcdf-47a2-ad1e-7fcd03bb8e23)
 
+- Select the other option for use case
 
-- 
+![image](https://github.com/user-attachments/assets/cc8abd0f-101e-4b28-bf84-26220b0cc1bc)
+
+- Give it a name to remember it by
+
+![image](https://github.com/user-attachments/assets/424dead8-aa49-44e3-b134-d9d0d56b9eed)
+
+- I recommend downloading the CSV
+- Once an access key is created you can never read the secret again if you lose it
+
+![image](https://github.com/user-attachments/assets/ad6795b8-9b01-4cb9-be07-b98b87707e87)
+
+
 
 
 
