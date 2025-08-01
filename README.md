@@ -3,7 +3,7 @@
 <br>
 
 
-# 🧪 AWS New Account Setup - Guided Lab
+# 🧪 Lab 2 - AWS New Account Setup
 
 In this lab you will setup your brand new AWS account with an IAM User, MFA, and create an access portal. If you have not yet created an AWS account please do so before starting this lab.
 
