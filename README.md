@@ -30,8 +30,7 @@ In AWS your account is like a container that all your resources you build such a
 <br>
 
 
-
-> 📖 Suggested Reading 
+# 📖 Suggested Reading 
 - [What is an AWS account?](https://docs.aws.amazon.com/accounts/latest/reference/accounts-welcome.html)
 - [Terminology and concepts for AWS Organizations](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_getting-started_concepts.html)
 
