@@ -14,7 +14,6 @@ This demo creates the following resources:
 
 - An IAM Account
 - MFA 
-- Custom access portal URL
 - Access key and secret key
 
 <br>
