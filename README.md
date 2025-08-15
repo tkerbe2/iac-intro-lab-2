@@ -39,7 +39,7 @@ In AWS your account is like a container that all your resources you build such a
 
 ### 1. Log into AWS
 
-- Log into AWS with your root account [AWS](https://aws.amazon.com/)
+- Log into AWS with your root account [AWS](https://aws.amazon.com/).
 
 ![image](https://github.com/user-attachments/assets/464af956-2c61-487d-bbef-acce4a9378f0)
 
@@ -51,7 +51,7 @@ In AWS your account is like a container that all your resources you build such a
 
 ![image](https://github.com/user-attachments/assets/27f8a292-70a5-4475-9628-fd0c0ddda89c)
 
-- You can favorite it so it's easier to find later
+- You can favorite it so it's easier to find later.
 
 <br>
 
@@ -59,19 +59,19 @@ In AWS your account is like a container that all your resources you build such a
 
 ### 3. Create and assign access to the user
 
-- On the left pane you will find users and click on create user
+- On the left pane you will find users and click on create user.
 
 ![image](https://github.com/user-attachments/assets/42972e56-3d4e-4202-b972-f2f3cbb6c65d)
 
-- We're going to create a specific account for our Terraform code to use when it deploys
+- We're going to create a specific account for our Terraform code to use when it deploys.
 
 ![image](https://github.com/user-attachments/assets/2b4e63bd-523b-45e9-aeb0-68e2e8ce05a5)
 
-- We need to give this account access to perform actions in certain services like creating a VM in EC2
+- We need to give this account access to perform actions in certain services like creating a VM in EC2.
 
 ![image](https://github.com/user-attachments/assets/fa52a954-38fd-47f6-8cc8-c92c82a55e6b)
 
-- Find the two built-in roles you see in the screenshot (AmazonEC2FullAccess, AmazonVPCFullAccess)
+- Find the two built-in roles you see in the screenshot (AmazonEC2FullAccess, AmazonVPCFullAccess).
 
 ![image](https://github.com/user-attachments/assets/3f86448c-3355-40a9-b973-457928d5efee)
 
@@ -81,32 +81,32 @@ In AWS your account is like a container that all your resources you build such a
 
 ### 4. Create access keys
 
-- Open the newly created iac-user account
+- Open the newly created iac-user account.
 
 ![image](https://github.com/user-attachments/assets/a958e31f-c1dc-4ada-b2e1-d7f50e2a3ed8)
 
-- You can create an access key on the top right pane
+- You can create an access key on the top right pane.
 
 ![image](https://github.com/user-attachments/assets/192a7969-fcdf-47a2-ad1e-7fcd03bb8e23)
 
-- Select the other option for use case
+- Select the other option for use case.
 
 ![image](https://github.com/user-attachments/assets/cc8abd0f-101e-4b28-bf84-26220b0cc1bc)
 
-- Give it a name to remember it by
+- Give it a name to remember it by.
 
 ![image](https://github.com/user-attachments/assets/424dead8-aa49-44e3-b134-d9d0d56b9eed)
 
-- I recommend downloading the CSV
-- Once an access key is created you can never read the secret again if you lose it
+- I recommend downloading the CSV.
+- Once an access key is created you can never read the secret again if you lose it.
 
 ![image](https://github.com/user-attachments/assets/ad6795b8-9b01-4cb9-be07-b98b87707e87)
 
 <br>
 
+***
 
-
-
+<br>
 
 # ✨ Congratulations!
 
